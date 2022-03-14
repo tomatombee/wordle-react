@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# tombee의 첫번째 리액트 : wordle 
+
+> 리액트로 구현한 워들입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
